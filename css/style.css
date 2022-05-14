@@ -37,3 +37,8 @@ body{
     padding:50px 0px 0px 0px;
     z-index:0;
 }
+
+legend{
+    padding:0px;
+    z-index:0;
+}
